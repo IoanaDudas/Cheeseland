@@ -1,2 +1,3 @@
 # Cheeseland
-High school final project
+
+Final high school project.
